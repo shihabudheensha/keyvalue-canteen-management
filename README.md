@@ -36,7 +36,7 @@ You can test the app using the following credentials:
 - **Password:** `12345678`
 
 ### 📦 View Orders
-- **URL:** [Admin Login](https://aws.rimpexpmis.com/shahanad/CanteenManagement/admin/allOrders.aspx)
+- **URL:** [View Orders](https://aws.rimpexpmis.com/shahanad/CanteenManagement/admin/allOrders.aspx)
 
 > 📝 *These are demo credentials for testing only.*
 
