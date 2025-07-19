@@ -3,7 +3,7 @@
 
 This project is a **Canteen Management Web App** developed for **KeyValue Builders Day 2025**. It aims to reduce peak-time congestion in the canteen by allowing students to order meals online and enabling staff to manage orders efficiently.
 
----
+
 
 ## 🚀 Features
 
@@ -24,7 +24,7 @@ This project is a **Canteen Management Web App** developed for **KeyValue Builde
 
 [![Watch the demo](https://img.youtube.com/vi/NZtEg8Fzotg/0.jpg)](https://youtu.be/NZtEg8Fzotg)
 
----
+📺 [Watch the demo video on YouTube](https://youtu.be/NZtEg8Fzotg)
 
 ## 🔐 Test Login Details
 
@@ -40,7 +40,7 @@ You can test the app using the following credentials:
 
 > 📝 *These are demo credentials for testing only.*
 
----
+
 
 
 
